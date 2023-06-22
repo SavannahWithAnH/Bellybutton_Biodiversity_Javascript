@@ -20,7 +20,7 @@
 * Display the sample metadata, i.e., an individual's demographic information.
 * Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![image](https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4f319a36-c646-4edd-9478-7ab97419e020)</p>
+![image](https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4f319a36-c646-4edd-9478-7ab97419e020)
 
 * Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
