@@ -15,7 +15,7 @@
 * Use sample_values for the marker size.
 * Use otu_ids for the marker colors.
 * Use otu_labels for the text values.
-<img width="599" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/2816c4ea-b808-4e20-a93b-0aaedc3447b7"></p>
+<img width="500" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/2816c4ea-b808-4e20-a93b-0aaedc3447b7"></p>
 
 * Display the sample metadata, i.e., an individual's demographic information.
 * Display each key-value pair from the metadata JSON object somewhere on the page.
@@ -24,7 +24,7 @@
 
 * Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-<img width="599" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/e8553f7e-57d3-466b-a83c-2d1e2bb9865f"></p>
+<img width="500" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/e8553f7e-57d3-466b-a83c-2d1e2bb9865f">
 
 * Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
@@ -32,7 +32,7 @@
 #### Weekly Washing Frequency Gauge
 * Update the chart whenever a new sample is selected.
 
-<img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4"></p>
+<img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
 
 
 
