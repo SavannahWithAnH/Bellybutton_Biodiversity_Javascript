@@ -29,7 +29,7 @@
 * Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
 ### Advanced Challenge Assignment (Optional)
-## Weekly Washing Frequency Gauge
+#### Weekly Washing Frequency Gauge
 * Update the chart whenever a new sample is selected.
 
 <img width="178" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
