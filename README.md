@@ -7,7 +7,7 @@
 * Use sample_values as the values for the bar chart.
 * Use otu_ids as the labels for the bar chart.
 * Use otu_labels as the hovertext for the chart.
-<p aling="center"> <img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/df772f4a-e1c1-4326-964c-bce64759c562"></p>
+<img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/df772f4a-e1c1-4326-964c-bce64759c562"></p>
 
 ### Create a bubble chart that displays each sample.
 * Use otu_ids for the x values.
@@ -24,7 +24,7 @@
 
 * Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-<img width="675" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/e8553f7e-57d3-466b-a83c-2d1e2bb9865f">
+<img width="700" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/e8553f7e-57d3-466b-a83c-2d1e2bb9865f">
 
 * Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
@@ -32,7 +32,7 @@
 #### Weekly Washing Frequency Gauge
 * Update the chart whenever a new sample is selected.
 
-<img width="350" aling="center" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
+<img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
 
 
 
