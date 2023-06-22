@@ -1,10 +1,10 @@
-var option = "";
+var option = '';
 var dataSet ;
 
 
 function init() {
 
-  d3.json("samples.json").then(function(data){
+  d3.json('samples.json').then(function(data){
     dataSet = data;
 
     console.log(dataSet);
@@ -13,10 +13,10 @@ function init() {
     displayHBarChart(940,dataSet);
     displayBubbleChart(940,dataSet);
 
-    var optionMenu = d3.select("#selDataset");
+    var optionMenu = d3.select('#selDataset');
 
     data.names.forEach(function(name){
-      optionMenu.append("option").text(name);
+      optionMenu.append('option').text(name);
     });
  })
 }
@@ -38,17 +38,17 @@ function displayMetaData(option,dataSet) {
     
     
     var mtdata = dataSet.metadata.filter(row => row.id == option);
-    d3.select("#sample-metadata").html(displayObject(mtdata[0]));
+    d3.select('#sample-metadata').html(displayObject(mtdata[0]));
         
 }
 
 function displayObject(obj) {
-    var str = "";
+    var str = '';
     Object.entries(obj).forEach(([key,value]) => {
         str += `<br>${key}:${value}</br>`;
-        if(key=="wfreq"){
+        if(key=='wfreq'){
             buildGauge(value);
-            console.log("gauge value is:" +value);
+            console.log('gauge value is:' +value);
         }
         
     });
@@ -76,23 +76,27 @@ function displayHBarChart(option,dataSet) {
         x:x[0].slice(0,10),
         y:y1.slice(0,10),
         text:text[0].slice(0,10),
-        type:"bar",
-        orientation:"h"
+        type:'bar',
+        orientation:'h',
+        marker: {
+            color: 'rgba(121, 40, 198, 1)',
+            width: 1
+          }
     };
 
     var data = [trace];
 
     var layout = {
         yaxis: {
-            autorange: "reversed" 
+            autorange: 'reversed' 
         },
         xaxis: {
-            title: "Top 10 Bacteria Cultures Found" 
+            title: 'Top 10 Bacteria Cultures Found' 
         }
     }
     
     
-    Plotly.newPlot("bar",data,layout);
+    Plotly.newPlot('bar',data,layout);
 }
 
 function displayBubbleChart(option,dataSet) {
@@ -114,11 +118,11 @@ function displayBubbleChart(option,dataSet) {
         x:x[0],
         y:y[0],
         text: text[0],
-        mode:"markers",
+        mode:'markers',
         marker: {
             color: marker_color[0],
             size: marker_size[0],
-            colorscale: "Jet"
+            colorscale: 'Jet'
         }
         
     };
@@ -127,14 +131,14 @@ function displayBubbleChart(option,dataSet) {
 
     var layout = {
         xaxis:{
-            title: "OTU ID"
+            title: 'OTU ID'
         },
         yaxis:{
             title: 'Bacteria Cultures Per Sample'
         }
     };
 
-    Plotly.newPlot("bubble",data,layout);
+    Plotly.newPlot('bubble',data,layout);
 
 }
 
