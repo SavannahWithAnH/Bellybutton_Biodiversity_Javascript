@@ -7,7 +7,7 @@
 * Use sample_values as the values for the bar chart.
 * Use otu_ids as the labels for the bar chart.
 * Use otu_labels as the hovertext for the chart.
-<img width="197" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/df772f4a-e1c1-4326-964c-bce64759c562">
+<img width="350" aling="center" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/df772f4a-e1c1-4326-964c-bce64759c562">
 
 ### Create a bubble chart that displays each sample.
 * Use otu_ids for the x values.
@@ -32,7 +32,7 @@
 #### Weekly Washing Frequency Gauge
 * Update the chart whenever a new sample is selected.
 
-<img width="178" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
+<img width="350" aling="center" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/4d958e8a-3908-4dd2-99a6-a6e245d9a3e4">
 
 
 
