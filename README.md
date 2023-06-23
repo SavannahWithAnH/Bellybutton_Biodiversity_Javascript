@@ -9,7 +9,7 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Inter
 * Use sample_values as the values for the bar chart.
 * Use otu_ids as the labels for the bar chart.
 * Use otu_labels as the hovertext for the chart.
-* 
+  
 <img width="350" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/df772f4a-e1c1-4326-964c-bce64759c562"></p>
 
 ### Create a bubble chart that displays each sample.
@@ -18,7 +18,7 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Inter
 * Use sample_values for the marker size.
 * Use otu_ids for the marker colors.
 * Use otu_labels for the text values.
-* 
+  
 <img width="600" alt="image" src="https://github.com/SavannahWithAnH/Module-14-Challenge/assets/126124356/2816c4ea-b808-4e20-a93b-0aaedc3447b7"></p>
 
 * Display the sample metadata, i.e., an individual's demographic information.
