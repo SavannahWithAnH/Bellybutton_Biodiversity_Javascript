@@ -1,4 +1,4 @@
-# Module-14-Challenge
+# Bellybutton_Biodiversity_Javascript
 ## To access my project please click [here.](https://savannahwithanh.github.io/Module-14-Challenge/)
 
 ## Instructions:
