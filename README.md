@@ -1,5 +1,5 @@
 # Bellybutton_Biodiversity_Javascript
-## To access my project please click [here.][(https://savannahwithanh.github.io/Bellybutton_Biodiversity_Javascript/)]
+## To access my project please click [here.](https://savannahwithanh.github.io/Bellybutton_Biodiversity_Javascript/)
 
 ## Getting started:
 * Use the D3 library to read in samples.json from the URL
